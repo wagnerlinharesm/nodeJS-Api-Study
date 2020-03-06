@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const requireDir = require('require-dir');
-const cors = require('cores');
+const cors = require('cors');
 
 // Iniciando o app
 const app = express();
